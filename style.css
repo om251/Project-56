@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: dodgerblue;
+}
+div {
+    margin-top:15px; 
+}
+
+
+.section-style {
+    margin-left: 25px;
+    margin-right: 25px;
+}
